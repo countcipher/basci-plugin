@@ -1,0 +1,2 @@
+### This is a basic custom post type plugin to allow developers to create custom post types without affecting the theme itself.
+### Use the shortcode [ch-shortcode] to place the information from the custom post into a page

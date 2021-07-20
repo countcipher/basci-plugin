@@ -1,0 +1,42 @@
+/*
+this is a test
+*/
+/* .ch-custom-wrapper{
+    color: red;
+    margin-bottom: 25px;
+}
+.ch-custom-wrapper img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -10px 10px 20px rgba(0,0,0,.5);
+    
+} */
+
+.snowcrash-plugin-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.snowcrash-plugin-wrapper .card{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border: solid 1px #333;
+    padding: 15px;
+    width: 30%;
+    margin-bottom: 15px;
+    min-width: 200px;
+    max-width: 500px;
+    transition: all .3s;
+}
+.snowcrash-plugin-wrapper .card img{
+    height: 200px;
+}
+
+.snowcrash-plugin-wrapper .card .content{
+    color: green;
+}
